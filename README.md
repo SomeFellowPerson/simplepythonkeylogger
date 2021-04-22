@@ -14,4 +14,10 @@ Delay:20
 Instructions for the other files are contained within themselves.\
 The "mail.ps1" file is merely the script that will be used to mail the logger file to the email.\
 The email will be the recipient as well as the sender, it is effectively emailing it self the logger file.\
-The "Keylogger.py" file does not take any arguments.
+The "Keylogger.py" file does not take any arguments.\
+The required pip installations are:\
+
+-pip install pynput\
+-pip install threading\
+-pip install regex\
+-pip install colorama
