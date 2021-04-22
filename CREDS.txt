@@ -1,0 +1,4 @@
+Email:test@gmail.com
+Password:securepassword123
+Server:smtp.someserver.com
+Delay:20

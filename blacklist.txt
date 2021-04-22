@@ -1,0 +1,5 @@
+HERE GO KEYS WHICH WILL BE EXCLUDED FROM BEING LOGGED. USE FORMAT: Key.code (e.g. Key.esc or a or z) AND A NEW LINE FOR EACH KEY --> https://pynput.readthedocs.io/en/latest/keyboard.html
+##########################################################################################################################################################################################
+Key.esc
+Key.ctrl_r
+Key.alt

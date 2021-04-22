@@ -1,0 +1,10 @@
+IF THIS LIST IS CHOSEN ONLY THE KEYS IN THIS LIST WILL BE LOGGED. USE FORMAT: Key.code (e.g. Key.esc or a or z) AND A NEW LINE FOR EACH KEY --> https://pynput.readthedocs.io/en/latest/keyboard.html
+#####################################################################################################################################################################################################
+Key.esc
+Key.alt
+a
+z
+c
+b
+n
+d
