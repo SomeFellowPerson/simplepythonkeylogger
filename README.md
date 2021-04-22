@@ -2,12 +2,12 @@
 A simple python keylogger script that features a black- and whitelist and an auto-mailer.
 
 In the "CREDS.txt" file you define the e-mail and credentials as well as the mailing delay in minutes and the associated SMTP server:\
-From "CREDS.txt":\
+From "CREDS.txt":
 
 Email:test@gmail.com\
 Password:securepassword123\
 Server:smtp.someserver.com\
-Delay:20\
+Delay:20
 
 
 
