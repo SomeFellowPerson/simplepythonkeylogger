@@ -22,3 +22,5 @@ The required pip installations are:
 -pip install threading\
 -pip install regex\
 -pip install colorama
+
+USE ONLY FOR EDUCATIONAL PURPOSES
