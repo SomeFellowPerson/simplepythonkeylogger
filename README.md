@@ -8,7 +8,7 @@ Email:test@gmail.com
 Password:securepassword123
 Server:smtp.someserver.com
 Delay:20
-
+h
 
 
 Instructions for the other files are contained within themselves.
